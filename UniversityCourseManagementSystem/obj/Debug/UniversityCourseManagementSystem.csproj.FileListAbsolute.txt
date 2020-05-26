@@ -1,0 +1,171 @@
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\UniversityCourseManagementSystem.dll.config
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\UniversityCourseManagementSystem.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\UniversityCourseManagementSystem.pdb
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Antlr3.Runtime.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\EntityFramework.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Newtonsoft.Json.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Owin.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Helpers.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Mvc.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Optimization.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Razor.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\WebGrease.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Helpers.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Mvc.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Optimization.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Razor.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Newtonsoft.Json.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Antlr3.Runtime.pdb
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\EntityFramework.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\obj\Debug\UniversityCourseManagementSystem.csprojResolveAssemblyReference.cache
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\obj\Debug\UniversityCourseManagementSystem.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\obj\Debug\UniversityCourseManagementSystem.pdb
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\itextsharp.dll
+E:\CSE LAB\Visual C#\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\itextsharp.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\UniversityCourseManagementSystem.dll.config
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\UniversityCourseManagementSystem.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\UniversityCourseManagementSystem.pdb
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\EntityFramework.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\itextsharp.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Owin.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Razor.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\WebGrease.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\itextsharp.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Razor.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\EntityFramework.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\obj\Debug\UniversityCourseManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\obj\Debug\UniversityCourseManagementSystem.dll
+C:\Users\Trainer 402\Desktop\TODAYPRACTICE\UniversityCourseManagementSystem\UniversityCourseManagementSystem\obj\Debug\UniversityCourseManagementSystem.pdb
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\UniversityCourseManagementSystem.dll.config
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\UniversityCourseManagementSystem.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\UniversityCourseManagementSystem.pdb
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Antlr3.Runtime.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\EntityFramework.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\EntityFramework.SqlServer.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\itextsharp.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Google.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Newtonsoft.Json.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Owin.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Helpers.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Mvc.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Optimization.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Razor.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.Deployment.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.Razor.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\WebGrease.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\itextsharp.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Helpers.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Mvc.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Razor.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.Deployment.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.WebPages.Razor.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\System.Web.Optimization.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Newtonsoft.Json.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Antlr3.Runtime.pdb
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\EntityFramework.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\EntityFramework.SqlServer.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.OAuth.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Google.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\obj\Debug\UniversityCourseManagementSystem.csprojResolveAssemblyReference.cache
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\obj\Debug\UniversityCourseManagementSystem.dll
+F:\idm\Compressed\UniversityCourseManagementSystem\UniversityCourseManagementSystem\UniversityCourseManagementSystem\obj\Debug\UniversityCourseManagementSystem.pdb
